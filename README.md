@@ -1,2 +1,2 @@
 # Maps
-Just a few codes to create some maps using Python, Basemap.
+Just a few codes to create maps using Python and Basemap.
